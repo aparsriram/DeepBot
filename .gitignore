@@ -1,0 +1,6 @@
+.config/
+.gradio/
+drive/
+sample_data/
+*.npy
+deepbot_faiss_index
